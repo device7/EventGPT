@@ -1,1 +1,1 @@
-# EventGPT
+# EventsGPT
